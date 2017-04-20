@@ -1,0 +1,9 @@
+/build/
+/nbproject/
+MVR-qt
+qrc_bitcoin.cpp
+*.P
+*.o
+/src/obj/build.h
+MVRd
+.idea
